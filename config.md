@@ -1,0 +1,2 @@
+`` 
+Terminal Transparency: 26
